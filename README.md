@@ -1,4 +1,4 @@
-### Hi there, I'm Jesse - aka [shubham-sapkal][website] 👋
+### Hi there, I'm shubham - aka [shubham-sapkal][website] 👋
 
 [![Website](https://img.shields.io/website?label=shubham-sapkal.bitbucket.io&style=for-the-badge&url=https://shubham-sapkal.bitbucket.io/)](https://shubham-sapkal.bitbucket.io/)
 
